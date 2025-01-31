@@ -20,7 +20,7 @@ int main(){
 	 // binary search 
 	 int arr[] = {1,3,5,7,9,11};
 	 
-	 int target = 7;
+	 int target = 34;
 	 int result = binarySearch(arr ,target , 0,5 );
 	 
 	 if (result != -1){
